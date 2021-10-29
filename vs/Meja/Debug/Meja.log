@@ -1,0 +1,10 @@
+﻿  Demo.cpp
+C:\Users\ahmad\source\repos\Tugas-2-Grafika-Komputer-A-master\vs\Meja\Demo.cpp(255,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-2-Grafika-Komputer-A-master\vs\Meja\Demo.cpp(369,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-2-Grafika-Komputer-A-master\vs\Meja\Demo.cpp(483,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-2-Grafika-Komputer-A-master\vs\Meja\Demo.cpp(597,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-2-Grafika-Komputer-A-master\vs\Meja\Demo.cpp(711,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-2-Grafika-Komputer-A-master\vs\Meja\Demo.cpp(825,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-2-Grafika-Komputer-A-master\vs\Meja\Demo.cpp(939,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-2-Grafika-Komputer-A-master\vs\Meja\Demo.cpp(1053,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Meja.vcxproj -> C:\Users\ahmad\source\repos\Tugas-2-Grafika-Komputer-A-master\vs\Debug\Meja.exe
